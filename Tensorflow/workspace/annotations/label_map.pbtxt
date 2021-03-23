@@ -1,0 +1,8 @@
+item { 
+	name:'Right'
+	id:1
+}
+item { 
+	name:'Left'
+	id:2
+}
